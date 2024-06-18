@@ -1,5 +1,8 @@
 ﻿# MMDBridge
 
+## Warning
+ * Some camera parameters exported from this tool are not correct!!!
+
 ## Requirements
  * VisualStudio2015 or later
  * MikuMikuDance Ver.9.26
